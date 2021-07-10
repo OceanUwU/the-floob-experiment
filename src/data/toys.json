@@ -1,0 +1,121 @@
+[
+    {
+        "name": "computer",
+        "filename": "computeroff",
+        "aspects": [9, 10, 19],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "football",
+        "filename": "football",
+        "aspects": [20, 3],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "book",
+        "filename": "book",
+        "aspects": [16, 7],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "your car keys",
+        "filename": "keys",
+        "aspects": [12, 15, 9, 25],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "plushie",
+        "filename": "plushie",
+        "aspects": [14, 5, 21],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "DVD",
+        "filename": "dvd",
+        "aspects": [4, 21],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "CD",
+        "filename": "cd",
+        "aspects": [24, 21],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "A bottle of mysterious pills you found somewhere in the bathroom cupboard",
+        "filename": "pills",
+        "aspects": [18, 10, 22, 14],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Sponge",
+        "filename": "sponge",
+        "aspects": [0, 10, 22, 14],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Skamtebord",
+        "filename": "skamtebord",
+        "aspects": [4, 26, 25],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Hot water bottle",
+        "filename": "hotwaterbottle",
+        "aspects": [21, 1, 14, 0],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Cow",
+        "filename": "cow",
+        "aspects": [13, 13, 13],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    }
+]

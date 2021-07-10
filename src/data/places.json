@@ -1,0 +1,401 @@
+[
+    {
+        "name": "rainforest",
+        "filename": "rainforest",
+        "aspects": [2, 0, 5],
+        "floob": {
+            "size": 35,
+            "rotate": 154,
+            "x": -38,
+            "y": 66
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "park",
+        "filename": "park",
+        "aspects": [3, 6, 2, 23],
+        "floob": {
+            "size": 36,
+            "rotate": 3,
+            "x": 38,
+            "y": 57.5
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "beach",
+        "filename": "beach",
+        "aspects": [1, 3, 0],
+        "floob": {
+            "size": 50,
+            "rotate": 3,
+            "x": 25,
+            "y": 56
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "industrial factory",
+        "filename": "factory",
+        "aspects": [9, 10, 20],
+        "floob": {
+            "size": 60,
+            "rotate": 1,
+            "x": 0,
+            "y": 47
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "cheese factory",
+        "filename": "cheesefactory",
+        "aspects": [13, 13, 13, 13],
+        "floob": {
+            "size": 60,
+            "rotate": 1,
+            "x": 0,
+            "y": 47
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "DaGameZone",
+        "filename": "dagamezone",
+        "aspects": [9, 4, 19],
+        "floob": {
+            "size": 71,
+            "rotate": -6,
+            "x": -17,
+            "y": 40
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "zoo",
+        "filename": "zoo",
+        "aspects": [5, 16, 20],
+        "floob": {
+            "size": 54,
+            "rotate": 0,
+            "x": 20,
+            "y": 51.7
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "bar",
+        "filename": "bar",
+        "aspects": [18, 0, 6],
+        "floob": {
+            "size": 67,
+            "rotate": 120,
+            "x": -23,
+            "y": 48
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "restaurant",
+        "filename": "restaurant",
+        "aspects": [17, 6],
+        "floob": {
+            "size": 37,
+            "rotate": 5,
+            "x": 15,
+            "y": 55.6
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "school",
+        "filename": "school",
+        "aspects": [16, 10, 6],
+        "floob": {
+            "size": 55,
+            "rotate": -5,
+            "x": -59,
+            "y": 42
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "library",
+        "filename": "library",
+        "aspects": [16, 7, 21],
+        "floob": {
+            "size": 48,
+            "rotate": 16,
+            "x": 45,
+            "y": 38
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "theme park",
+        "filename": "themepark",
+        "aspects": [6, 12, 20],
+        "floob": {
+            "size": 29,
+            "rotate": 200,
+            "x": 45,
+            "y": 18
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "camping",
+        "filename": "camping",
+        "aspects": [3, 1, 8],
+        "floob": {
+            "size": 43,
+            "rotate": 0,
+            "x": 26,
+            "y": 62
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "volcano",
+        "filename": "volcano",
+        "aspects": [1, 25],
+        "floob": {
+            "size": 18,
+            "rotate": 173,
+            "x": 28.7,
+            "y": 52
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "rocket ship",
+        "filename": "rocket",
+        "aspects": [12, 28, 9, 20],
+        "floob": {
+            "size": 27,
+            "rotate": 0,
+            "x": 23,
+            "y": -2
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "mountain",
+        "filename": "mountain",
+        "aspects": [8, 3, 25],
+        "floob": {
+            "size": 27,
+            "rotate": 88,
+            "x": 16.7,
+            "y": 18
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "kitchen",
+        "filename": "kitchen",
+        "aspects": [17, 4, 11],
+        "floob": {
+            "size": 33,
+            "rotate": -20,
+            "x": -35,
+            "y": 13
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "bedroom",
+        "filename": "bedroom",
+        "aspects": [14, 7, 21, 4],
+        "floob": {
+            "size": 37,
+            "rotate": -10,
+            "x": -28,
+            "y": 36
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "study",
+        "filename": "study",
+        "aspects": [9, 10, 11, 7],
+        "floob": {
+            "size": 48,
+            "rotate": -5,
+            "x": 21,
+            "y": 36.6
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "birdwatching",
+        "filename": "birdwatching",
+        "aspects": [5, 8, 2],
+        "floob": {
+            "size": 71,
+            "rotate": -6,
+            "x": -17,
+            "y": 40
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "cupboard",
+        "filename": "cupboard",
+        "aspects": [7, 4, 15],
+        "floob": {
+            "size": 71,
+            "rotate": -6,
+            "x": -17,
+            "y": 40
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "pet shop",
+        "filename": "petshop",
+        "aspects": [5, 6, 17],
+        "floob": {
+            "size": 71,
+            "rotate": 2,
+            "x": 8,
+            "y": 40
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "FloobLab™",
+        "filename": "lab",
+        "aspects": [9, 22, 16, 18],
+        "floob": {
+            "size": 44,
+            "rotate": -1,
+            "x": -5,
+            "y": 60
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "concert",
+        "filename": "concert",
+        "aspects": [24, 12, 6, 20],
+        "floob": {
+            "size": 31,
+            "rotate": -15,
+            "x": -18,
+            "y": 45
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Britain",
+        "filename": "britain",
+        "aspects": [0, 18, 28],
+        "floob": {
+            "size": 80,
+            "rotate": -6,
+            "x": 30,
+            "y": 32
+        },
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    }
+]

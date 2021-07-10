@@ -1,0 +1,268 @@
+[
+    {
+        "name": "nothing",
+        "filename": "blank",
+        "effects": [],
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "camo coverall",
+        "filename": "camo",
+        "effects": [
+            {
+                "aspect": 2,
+                "direction": 1
+            },
+            {
+                "aspect": 25,
+                "direction": 0
+            }
+        ],
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "raincoat",
+        "filename": "raincoat",
+        "effects": [
+            {
+                "aspect": 0,
+                "direction": 0
+            },
+            {
+                "aspect": 8,
+                "direction": 0
+            }
+        ],
+        "aspects": [22],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "flower",
+        "filename": "flower",
+        "effects": [
+            {
+                "aspect": 0,
+                "direction": 1
+            }
+        ],
+        "aspects": [2, 23],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "headphones",
+        "filename": "headphones",
+        "effects": [
+            {
+                "aspect": 9,
+                "direction": 1
+            },
+            {
+                "aspect": 20,
+                "direction": 0
+            }
+        ],
+        "aspects": [19, 24],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "VR headset",
+        "filename": "vrheadset",
+        "effects": [
+            {
+                "aspect": 25,
+                "direction": -1
+            },
+            {
+                "aspect": 4,
+                "direction": 1
+            }
+        ],
+        "aspects": [22],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "sunglasses",
+        "filename": "sunglasses",
+        "effects": [],
+        "aspects": [26],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Smart glasses",
+        "filename": "smartglasses",
+        "effects": [
+            {
+                "aspect": 9,
+                "direction": 1
+            },
+            {
+                "aspect": 0,
+                "direction": -1
+            }
+        ],
+        "aspects": [9],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "winter jacket",
+        "filename": "winterjacket",
+        "effects": [
+            {
+                "aspect": 1,
+                "direction": -1
+            },
+            {
+                "aspect": 8,
+                "direction": 0
+            }
+        ],
+        "aspects": [22, 14],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "pyjamas",
+        "filename": "pyjamas",
+        "effects": [
+            {
+                "aspect": 21,
+                "direction": 1
+            },
+            {
+                "aspect": 3,
+                "direction": -1
+            }
+        ],
+        "aspects": [21, 14],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "dress",
+        "filename": "dress",
+        "effects": [
+            {
+                "aspect": 0,
+                "direction": -1
+            },
+            {
+                "aspect": 6,
+                "direction": 1
+            }
+        ],
+        "aspects": [26, 23],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "fursuit",
+        "filename": "fursuit",
+        "effects": [],
+        "aspects": [5, 14],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "detective outfit",
+        "filename": "detective",
+        "effects": [],
+        "aspects": [27],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "hi-vis vest",
+        "filename": "hivisjacket",
+        "effects": [
+            {
+                "aspect": 25,
+                "direction": 0
+            }
+        ],
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "meat jacket",
+        "filename": "meat",
+        "effects": [
+            {
+                "aspect": 5,
+                "direction": -1
+            },
+            {
+                "aspect": 6,
+                "direction": -1
+            }
+        ],
+        "aspects": [17, 15],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "cheese suit",
+        "filename": "cheese",
+        "effects": [],
+        "aspects": [13],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    }
+]

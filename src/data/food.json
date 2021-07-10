@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Dog Food",
+        "filename": "dogfood",
+        "aspects": [5, 15],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Military-grade Floob Food",
+        "filename": "floobfood",
+        "aspects": [11, 10],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Cheese",
+        "filename": "cheese",
+        "aspects": [13, 13],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Floob",
+        "filename": "floob",
+        "aspects": [27, 25],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Baked Beans",
+        "filename": "beans",
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Crisps",
+        "filename": "crisps",
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    },
+
+    {
+        "name": "Ramen Noodles",
+        "filename": "ramennoodles",
+        "aspects": [],
+        "msg": [
+            "positive message",
+            "negative message"
+        ]
+    }
+]

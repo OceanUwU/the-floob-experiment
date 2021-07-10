@@ -1,0 +1,10 @@
+desktop.ini
+/stuff/
+/node_modules/
+/server/cfg.json
+/server/floobNum.json
+/server/log.txt
+/server/data.db
+data.db
+/src/socket/server.json
+/build/

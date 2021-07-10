@@ -1,0 +1,47 @@
+{
+  "name": "the-floob-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "build": "node node_modules/react-scripts/bin/react-scripts.js build",
+    "dev-client": "node node_modules/react-scripts/bin/react-scripts.js start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "connect-session-sequelize": "^7.0.4",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2",
+    "express-session": "^1.17.1",
+    "number-to-text": "^0.3.8",
+    "passport": "^0.4.1",
+    "passport-identificator": "^1.0.1",
+    "passport.socketio": "^3.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.1",
+    "sequelize": "^6.3.5",
+    "socket.io": "2.3.0",
+    "socket.io-client": "2.3.0",
+    "sqlite3": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
