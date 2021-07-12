@@ -2,8 +2,11 @@
 /node_modules/
 /server/cfg.json
 /server/floobNum.json
+floobNum.json
+.eslintcache
 /server/log.txt
 /server/data.db
 data.db
 /src/socket/server.json
 /build/
+log.txt
