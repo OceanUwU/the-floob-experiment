@@ -1,31 +1,31 @@
 [
     {
-        "name": "Dog Food",
+        "name": "dog food",
         "filename": "dogfood",
         "aspects": [5, 15],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the meaty flavour of the dog food!",
+            "Floob was appalled that you'd even consider offering them this."
         ]
     },
 
     {
-        "name": "Military-grade Floob Food",
+        "name": "military-grade Floob food",
         "filename": "floobfood",
         "aspects": [11, 10],
         "msg": [
-            "positive message",
-            "negative message"
+            "The MGFF was very filling and enjoyable for the Floob",
+            "The food was greasy and reminded Floob of the war..."
         ]
     },
 
     {
-        "name": "Cheese",
+        "name": "cheese",
         "filename": "cheese",
         "aspects": [13, 13],
         "msg": [
-            "positive message",
-            "negative message"
+            "Cheese :)",
+            "Cheese :("
         ]
     },
 
@@ -34,38 +34,168 @@
         "filename": "floob",
         "aspects": [27, 25],
         "msg": [
-            "positive message",
-            "negative message"
+            "Something just awakened in Floob...",
+            "Floob was horrified to see one of their own kind being served as food."
         ]
     },
 
     {
-        "name": "Baked Beans",
+        "name": "baked beans",
         "filename": "beans",
-        "aspects": [],
+        "aspects": [11],
         "msg": [
-            "positive message",
-            "negative message"
+            "MMMMMMMMM! BEANZ",
+            "Ew, beans."
         ]
     },
 
     {
-        "name": "Crisps",
+        "name": "crisps",
         "filename": "crisps",
-        "aspects": [],
+        "aspects": [8, 20],
         "msg": [
-            "positive message",
-            "negative message"
+            "The crunchy texture was very enjoyable for Floob.",
+            "The crisps were to loud and greasy for Floob."
         ]
     },
 
     {
-        "name": "Ramen Noodles",
-        "filename": "ramennoodles",
-        "aspects": [],
+        "name": "caviar",
+        "filename": "caviar",
+        "aspects": [29],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt like royalty eating the caviar.",
+            "Floob didnt vibe well with the fish eggs."
+        ]
+    },
+
+    {
+        "name": "meat",
+        "filename": "meat",
+        "aspects": [5],
+        "msg": [
+            "Floob chowed down on some nice meat.",
+            "Floob is vegan! You're so insensitive!!!"
+        ]
+    },
+
+    {
+        "name": "energy drink",
+        "filename": "energydrink",
+        "aspects": [19, 0],
+        "msg": [
+            "Floob felt super energized and active after drinking this!",
+            "Floob didnt like the flavour of the drink. It gave them a sugar crash."
+        ]
+    },
+
+    {
+        "name": "coffee",
+        "filename": "coffee",
+        "aspects": [10],
+        "msg": [
+            "The coffee gave Floob a nice boost of energy!",
+            "The coffee made Floob's stomach hurt."
+        ]
+    },
+
+    {
+        "name": "FoodPill™",
+        "filename": "pill",
+        "aspects": [9, 18],
+        "msg": [
+            "The FoodPill has an amazing zany taste, perfect to start your day!",
+            "Side effects may include bone pain, loss of hearing and extreme bowel movements."
+        ]
+    },
+
+    {
+        "name": "marshmallow",
+        "filename": "marshmallow",
+        "aspects": [14],
+        "msg": [
+            "Floob loved the fluffy marshmallow",
+            "The marshmallow was too sticky for Floob's liking."
+        ]
+    },
+
+    {
+        "name": "fugu",
+        "filename": "fugu",
+        "aspects": [25, 28],
+        "msg": [
+            "The rush of excitement was very enjoyable for floob.",
+            "Floob was paranoid they had a bad part of the pufferfish, so much it prevented them from enjoying it."
+        ]
+    },
+
+    {
+        "name": "water",
+        "filename": "water",
+        "aspects": [0],
+        "msg": [
+            "Floob loved the water so much they considered growing gills.",
+            "Floob didnt really like the water all to much."
+        ]
+    },
+
+    {
+        "name": "pepper",
+        "filename": "pepper",
+        "aspects": [1],
+        "msg": [
+            "The spicy taste is why this food is very much loved by Floob.",
+            "Floob hated how spicy the pepper was."
+        ]
+    },
+
+    {
+        "name": "wedding cake",
+        "filename": "weddingcake",
+        "aspects": [23],
+        "msg": [
+            "Floob loved the wedding cake's grand design.",
+            "Floob thought the wedding cake was just too much."
+        ]
+    },
+
+    {
+        "name": "soap",
+        "filename": "soap",
+        "aspects": [22],
+        "msg": [
+            "Floob felt clean after eating this.",
+            "Floob's having some serious trouble understanding how you got put in charge..."
+        ]
+    },
+
+    {
+        "name": "sheet music",
+        "filename": "sheetmusic",
+        "aspects": [24, 15],
+        "msg": [
+            "Floob felt the creativity flowing through their veins.",
+            "It felt destructive eating something that took so much effort to make."
+        ]
+    },
+
+    {
+        "name": "pi",
+        "filename": "pi",
+        "aspects": [16],
+        "msg": [
+            "Wow. a food I enjoy, excellent!",
+            "Floob couldn't finish the pi."
+        ]
+    },
+
+    {
+        "name": "ramen noodles",
+        "filename": "ramennoodles",
+        "aspects": [0, 1],
+        "msg": [
+            "Floob loved the ramen noodles for their simplicity.",
+            "The noodles were too boring for Floob."
         ]
     }
 ]

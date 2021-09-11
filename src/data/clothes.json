@@ -5,8 +5,8 @@
         "effects": [],
         "aspects": [],
         "msg": [
-            "positive message",
-            "negative message"
+            "...",
+            "..."
         ]
     },
 
@@ -16,7 +16,7 @@
         "effects": [
             {
                 "aspect": 2,
-                "direction": 1
+                "direction": 0
             },
             {
                 "aspect": 25,
@@ -25,8 +25,8 @@
         ],
         "aspects": [],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob fe- Wait... where did floob go?",
+            "Floob didnt enjoy being so hidden."
         ]
     },
 
@@ -45,8 +45,8 @@
         ],
         "aspects": [22],
         "msg": [
-            "positive message",
-            "negative message"
+            "The raincoat was comfortable and cozy for Floob",
+            "Floob felt sweaty inside the raincoat."
         ]
     },
 
@@ -61,8 +61,8 @@
         ],
         "aspects": [2, 23],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt pretty wearing this!",
+            "Floob kept sneezing when this was worn."
         ]
     },
 
@@ -81,8 +81,8 @@
         ],
         "aspects": [19, 24],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob listened to the best of the best (Floob out Boy)!!",
+            "Floob's ears hurt (Floobwood Mac came on)."
         ]
     },
 
@@ -99,10 +99,10 @@
                 "direction": 1
             }
         ],
-        "aspects": [22],
+        "aspects": [9, 19],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob could finally experience freedom with this!",
+            "The headset made floob motion sick."
         ]
     },
 
@@ -112,8 +112,8 @@
         "effects": [],
         "aspects": [26],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob looked cool in the sunglasses",
+            "Floob couldn't see properly with the sunglasses on."
         ]
     },
 
@@ -132,8 +132,8 @@
         ],
         "aspects": [9],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt so tech savvy with these on!",
+            "Floob felt stupid with the smart glasses on."
         ]
     },
 
@@ -152,8 +152,8 @@
         ],
         "aspects": [22, 14],
         "msg": [
-            "positive message",
-            "negative message"
+            "The winter coat was comfortable and cozy for Floob",
+            "Floob felt sweaty inside the winter jacket."
         ]
     },
 
@@ -172,8 +172,8 @@
         ],
         "aspects": [21, 14],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob was very *yawn* snug and cozy wearing these.",
+            "Floob dislikes the pattern on the pyjamas."
         ]
     },
 
@@ -192,8 +192,8 @@
         ],
         "aspects": [26, 23],
         "msg": [
-            "positive message",
-            "negative message"
+            "Dress go spinny!!!",
+            "Floob dislikes the pattern on the dress."
         ]
     },
 
@@ -203,8 +203,8 @@
         "effects": [],
         "aspects": [5, 14],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt at home inside this suit.",
+            "Floob felt that the suit was to sweaty and heavy."
         ]
     },
 
@@ -214,8 +214,8 @@
         "effects": [],
         "aspects": [27],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt like they could solve any crime in this get up!",
+            "The only crime committed here would need the fashion police."
         ]
     },
 
@@ -228,10 +228,10 @@
                 "direction": 0
             }
         ],
-        "aspects": [],
+        "aspects": [10],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt impenetrable wearing this.",
+            "Floob didn't like the fit."
         ]
     },
 
@@ -250,8 +250,8 @@
         ],
         "aspects": [17, 15],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob stood out in this outfit!",
+            "Floob was very uncomfortable wearing this."
         ]
     },
 
@@ -261,8 +261,24 @@
         "effects": [],
         "aspects": [13],
         "msg": [
-            "positive message",
-            "negative message"
+            "Cheese :)",
+            "Cheese :("
+        ]
+    },
+
+    {
+        "name": "$wag outfit",
+        "filename": "cheese",
+        "effects": [
+            {
+                "aspect": 18,
+                "direction": 1
+            }
+        ],
+        "aspects": [29, 26],
+        "msg": [
+            "Floob got dat drip in this outfit!",
+            "Floob felt this outfit was a little bit obnoxious."
         ]
     }
 ]

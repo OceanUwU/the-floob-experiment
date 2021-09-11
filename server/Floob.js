@@ -25,13 +25,13 @@ const voteOrder = [
     {
         name: 'Toy',
         possibleOptions: toys,
-        options: 3,
+        options: 4,
         store: 'toy',
     },
     {
         name: 'Meal',
         possibleOptions: food,
-        options: 2,
+        options: 4,
         store: 'food',
     },
     {
@@ -49,8 +49,8 @@ const voteOrder = [
 const chat = require('./socket/chat');
 const shuffle = require('./shuffle');
 
-const maxMaxHP = 1;
-const minMaxHP = 1;
+const maxMaxHP = 125;
+const minMaxHP = 75;
 const maxHPLostPerDay = 5;
 
 const minHappiness = -20;

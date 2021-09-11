@@ -5,7 +5,6 @@ global.floob = {
 const express = require('express');
 const expresssession = require('express-session');
 const cookieParser = require('cookie-parser');
-const proxy = require('express-http-proxy');
 
 const cfg = require('./cfg');
 const db = require('./models');
@@ -47,6 +46,7 @@ app.use(passport.router);
 app.use(require("./routes"));*/
 
 if (cfg.dev == true) {
+    const proxy = require('express-http-proxy');
     app.use('/', proxy('http://localhost:3000'));
 } else {
     app.use('/', express.static(__dirname + '/../build'));

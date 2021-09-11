@@ -118,8 +118,8 @@ function Option(props) {
                     onMouseEnter={handlePopoverOpen}
                     onMouseLeave={handlePopoverClose}
                     onClick={() => {
-                        props.pick(props.option);
-                        socket.emit('vote', Number(props.option));
+                        props.pick(props.picked == props.option ? null : props.option);
+                        socket.emit('vote', props.picked == props.option ? null : Number(props.option));
                     }}
                     variant="outlined"
                     size="small"

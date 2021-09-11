@@ -10,8 +10,8 @@
             "y": 66
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the sound and sights of the rainforest.",
+            "The rainforest scared floob."
         ]
     },
 
@@ -26,8 +26,8 @@
             "y": 57.5
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the walk in the park.",
+            "Floob didnt like the park's atmosphere."
         ]
     },
 
@@ -42,8 +42,8 @@
             "y": 56
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved their time at the beach.",
+            "Floob doesn't like sand. It's coarse and rough and gets everywhere."
         ]
     },
 
@@ -58,8 +58,8 @@
             "y": 47
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob was fascinated by the machinery in the factory.",
+            "Floob didnt like the pollution the factory was making, among other things."
         ]
     },
 
@@ -74,8 +74,8 @@
             "y": 47
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Cheese :)",
+            "Cheese :("
         ]
     },
 
@@ -90,8 +90,8 @@
             "y": 40
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed playing videogames.",
+            "Floob doesn't like playing videogames."
         ]
     },
 
@@ -106,8 +106,8 @@
             "y": 51.7
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed watching the animals at the zoo.",
+            "Floob didn't like the zoo animals."
         ]
     },
 
@@ -122,8 +122,8 @@
             "y": 48
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed having a drink at the bar.",
+            "Floob didnt like the bar's atmosphere... and they're a lightweight."
         ]
     },
 
@@ -138,8 +138,8 @@
             "y": 55.6
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the gourmet food served here.",
+            "Floob would prefer to stick to regular floob-rations from now on."
         ]
     },
 
@@ -154,8 +154,8 @@
             "y": 42
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed learning about new topics.",
+            "Floob couldn't cope with the amout of work that was given to them."
         ]
     },
 
@@ -170,8 +170,8 @@
             "y": 38
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the vast amount of books the library had to offer.",
+            "Floob found the library boring."
         ]
     },
 
@@ -186,8 +186,8 @@
             "y": 18
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the rides and the attractions at the theme park.",
+            "The rides made Floob throw up."
         ]
     },
 
@@ -202,8 +202,8 @@
             "y": 62
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the feeling of camping out under the \"stars\".",
+            "Floob would prefer to sleep in their own bed."
         ]
     },
 
@@ -218,8 +218,8 @@
             "y": 52
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "The heat made floob very comfortable.",
+            "Floob was very scared of the volcano."
         ]
     },
 
@@ -234,8 +234,8 @@
             "y": -2
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved the idea of exploring new worlds.",
+            "Floob didnt want to leave and would prefer to stay in mission control."
         ]
     },
 
@@ -250,8 +250,8 @@
             "y": 18
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved the climb and found the view at the top breathtaking.",
+            "Floob was tired and disappointed by the end of the hike."
         ]
     },
 
@@ -266,8 +266,8 @@
             "y": 13
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed cooking and eating the food made here.",
+            "Floob would prefer to order a floob-ration takeout."
         ]
     },
 
@@ -282,8 +282,8 @@
             "y": 36
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed their sleep.",
+            "Floob couldn't get to sleep."
         ]
     },
 
@@ -298,8 +298,8 @@
             "y": 36.6
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the piece and quiet here.",
+            "Floob didnt like the study's vibe."
         ]
     },
 
@@ -314,8 +314,8 @@
             "y": 40
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved seeing the birds fly around.",
+            "The birds thought that Floob was an angry pig."
         ]
     },
 
@@ -330,8 +330,8 @@
             "y": 40
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the cupboard's interesting contents.",
+            "Floob would like to get out of the cupboard now."
         ]
     },
 
@@ -346,8 +346,8 @@
             "y": 40
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob liked seeing all of the cute aimals.",
+            "Floob didn't feel comfortable around the animals."
         ]
     },
 
@@ -362,8 +362,8 @@
             "y": 60
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob felt at home here.",
+            "This place evoked a sense of dread from Floob."
         ]
     },
 
@@ -378,8 +378,8 @@
             "y": 45
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved the concert.",
+            "Floob would prefer to stream music in the future."
         ]
     },
 
@@ -394,8 +394,24 @@
             "y": 32
         },
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob loved the sights of Britan.",
+            "Floob was worried they were gonna get stabbed."
+        ]
+    },
+
+    {
+        "name": "bank",
+        "filename": "bank",
+        "aspects": [10, 29],
+        "floob": {
+            "size": 80,
+            "rotate": -6,
+            "x": 30,
+            "y": 32
+        },
+        "msg": [
+            "Floob admires the bank's expensive architecture.",
+            "Floob felt jealous at the bank."
         ]
     }
 ]

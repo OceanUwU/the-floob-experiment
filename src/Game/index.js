@@ -8,6 +8,8 @@ import Bars from './Bars';
 import VoteArea from './VoteArea';
 import Chat from './Chat';
 import FloobImage from './FloobImage';
+import VisibilityIcon from '@material-ui/icons/Visibility';
+import VisibilityOffIcon from '@material-ui/icons/VisibilityOff';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
@@ -19,6 +21,13 @@ const useStyles = makeStyles((theme) => ({
 
     aspectButton: {
         position: 'relative',
+    },
+
+    hideUIButton: {
+        position: 'fixed',
+        top: 10,
+        right: 0,
+        zIndex: 100,
     },
 }));
 
@@ -41,6 +50,7 @@ export default function Game(props) {
     const [clothing, setClothing] = React.useState(props.floob.clothing);
     const [vote, setVote] = React.useState(getVote(props.floob));
     const [aspectGuesses, setAspectGuesses] = React.useState(props.floob.aspectGuesses);
+    const [shown, setShown] = React.useState(true);
 
     React.useEffect(() => {
         socket.on('floobUpdate', floob => {
@@ -66,9 +76,12 @@ export default function Game(props) {
             <NewDay day={dayScreen} />
             <Intro />
 
-            <Bars HP={floob.HP} maxHP={floob.maxHP} originalMaxHP={floob.originalMaxHP} happiness={floob.happiness} />
-            <VoteArea vote={vote} aspectGuesses={aspectGuesses} />
-            <Chat messages={props.floob.messages} />
+            <span class={classes.hideUIButton}><IconButton style={{background:'#ffffff40'}} onClick={() => setShown(!shown)}>{shown ? <VisibilityOffIcon / > : <VisibilityIcon />}</IconButton></span>
+            {shown ? [
+                <Bars HP={floob.HP} maxHP={floob.maxHP} originalMaxHP={floob.originalMaxHP} happiness={floob.happiness} />,
+                <VoteArea vote={vote} aspectGuesses={aspectGuesses} />,
+                <Chat messages={props.floob.messages} />,
+            ] : null}
 
             <FloobImage name={props.floob.name} age={day - 1} clothing={clothing} />
         </div>

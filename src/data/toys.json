@@ -4,8 +4,8 @@
         "filename": "computeroff",
         "aspects": [9, 10, 19],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed browsing the web and playing minesweeper.",
+            "Floob's neopet died! They're heartbroken!"
         ]
     },
 
@@ -14,8 +14,8 @@
         "filename": "football",
         "aspects": [20, 3],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob had a fun time playing with the football.",
+            "Floob lost."
         ]
     },
 
@@ -24,8 +24,8 @@
         "filename": "book",
         "aspects": [16, 7],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob learnt a lot of useful information.",
+            "Floob found the book boring."
         ]
     },
 
@@ -34,8 +34,8 @@
         "filename": "keys",
         "aspects": [12, 15, 9, 25],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob went on a hella epic joyride!!! While Floob had a good time, your car's seen better days...",
+            "That was a little tikes toy car. Floob was not impressed."
         ]
     },
 
@@ -44,18 +44,18 @@
         "filename": "plushie",
         "aspects": [14, 5, 21],
         "msg": [
-            "positive message",
-            "negative message"
+            "The plushie was very cute and cuddly!",
+            "Floob is too old for plushies."
         ]
     },
 
     {
-        "name": "DVD",
+        "name": "film",
         "filename": "dvd",
         "aspects": [4, 21],
         "msg": [
-            "positive message",
-            "negative message"
+            "Five stars!!! Floob has resigned as a film critic because they believe this is the final film that humanity needed. They had this to say: \"\".",
+            "One star. The plot twists were more like knots."
         ]
     },
 
@@ -64,58 +64,108 @@
         "filename": "cd",
         "aspects": [24, 21],
         "msg": [
-            "positive message",
-            "negative message"
+            "Floob enjoyed the music that was on the CD.",
+            "OH GOD https://youtu.be/rOC9d17vASc"
         ]
     },
 
     {
-        "name": "A bottle of mysterious pills you found somewhere in the bathroom cupboard",
+        "name": "a bottle of mysterious pills you found somewhere in the bathroom cupboard",
         "filename": "pills",
-        "aspects": [18, 10, 22, 14],
+        "aspects": [18, 21, 15, 27],
         "msg": [
-            "positive message",
-            "negative message"
+            "They were calpol pills! All of Floob's medical problems are now solved.",
+            "What the hell??? They were pain-pills!! Floob's in agony!!"
         ]
     },
 
     {
-        "name": "Sponge",
+        "name": "sponge",
         "filename": "sponge",
         "aspects": [0, 10, 22, 14],
         "msg": [
-            "positive message",
-            "negative message"
+            "The sponge was fun to play with!",
+            "Floob didn't like the sponge very much"
         ]
     },
 
     {
-        "name": "Skamtebord",
+        "name": "skamtebord",
         "filename": "skamtebord",
-        "aspects": [4, 26, 25],
+        "aspects": [3, 26, 25],
         "msg": [
-            "positive message",
-            "negative message"
+            "Cool and epic tricks were performed by Floob",
+            "Floob was not gnarly enough to pull off the skamteboard."
         ]
     },
 
     {
-        "name": "Hot water bottle",
+        "name": "hot water bottle",
         "filename": "hotwaterbottle",
         "aspects": [21, 1, 14, 0],
         "msg": [
-            "positive message",
-            "negative message"
+            "The warm sensation the water bottle gave made Floob comfortable.",
+            "Floob was all sweaty and steamy after using the water bottle. They didnt like it."
         ]
     },
 
     {
-        "name": "Cow",
+        "name": "painted PSP",
+        "filename": "psp",
+        "aspects": [9, 19, 4],
+        "msg": [
+            "Floob enjoyed the games such as Super Poké Brothers",
+            "Floob experienced way too much D-Pad drift."
+        ]
+    },
+
+    {
+        "name": "dumbbell",
+        "filename": "dumbbell",
+        "aspects": [3, 11],
+        "msg": [
+            "GAINS!!!",
+            "All pain, but still no gain."
+        ]
+    },
+
+    {
+        "name": "fan",
+        "filename": "fan",
+        "aspects": [8, 4, 23],
+        "msg": [
+            "Floob enjoyed the fresh breeze the fan provided!",
+            "Floob got a papercut!"
+        ]
+    },
+
+    {
+        "name": "grand piano",
+        "filename": "piano",
+        "aspects": [24, 29],
+        "msg": [
+            "Floob loved playing the piano!",
+            "Floob didnt like the piano. It was too hard to play without arms."
+        ]
+    },
+
+    {
+        "name": "bong",
+        "filename": "bong",
+        "aspects": [18, 4, 21],
+        "msg": [
+            "Floob got hella shonked.",
+            "Floob had a bad trip."
+        ]
+    },
+
+    {
+        "name": "cow",
         "filename": "cow",
         "aspects": [13, 13, 13],
         "msg": [
-            "positive message",
-            "negative message"
+            "Moo :)",
+            "What the hell??? Floob is speciesist!!"
         ]
     }
 ]
