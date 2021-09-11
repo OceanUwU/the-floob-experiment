@@ -20,12 +20,10 @@ function initIo (server, sessionStore) {
 
     io.on('connect', socket => {
         if (socket.request.user.logged_in) {
-            /*
             if (Object.values(io.sockets.clients().connected).filter(sock => sock.request.user.id == socket.request.user.id).length > 1 && !cfg.dev) { //if there's already a socket logged in with this socket's user
                 socket.emit('requireLogin');
                 socket.disconnect();
             }
-            */
             if (socket.request.user.cardURL == undefined)
                 socket.request.user.cardURL = `${cfg.identificatorHost}/card/${socket.request.user.id}.png?o=l&t=u&b&bg`;
             if (!socket.request.user.avatarURL.endsWith(appendToAvatarURL))
